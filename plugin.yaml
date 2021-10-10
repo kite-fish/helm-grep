@@ -1,0 +1,6 @@
+name: "grep"
+version: "v0.1"
+usage: "A helm plugin :  release values searcher"
+description: "A helm plugin :  release values searcher"
+useTunnel: true
+command: "$HELM_PLUGIN_DIR/bin/grep"
